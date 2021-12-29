@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elizabeth Vierling | Laboratory of wheat abiotic stress research</title>
+    <link>/authors/elizabeth-vierling/</link>
+      <atom:link href="/authors/elizabeth-vierling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elizabeth Vierling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2005-2020 版权所有 [沪ICP备01234567号](http://www.beian.miit.gov.cn)</copyright>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Elizabeth Vierling</title>
+      <link>/authors/elizabeth-vierling/</link>
+    </image>
+    
+    <item>
+      <title>Paper:Auxin efflux controls orderly nucellar degeneration and expansion of the female gametophyte in Arabidopsis</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

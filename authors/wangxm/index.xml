@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wangxm | Laboratory of wheat abiotic stress research</title>
+    <link>/authors/wangxm/</link>
+      <atom:link href="/authors/wangxm/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wangxm</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2005-2020 版权所有 [沪ICP备01234567号](http://www.beian.miit.gov.cn)</copyright><lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Wangxm</title>
+      <link>/authors/wangxm/</link>
+    </image>
+    
+    <item>
+      <title>Paper:Hybrid sequencing reveals insight into heat sensing and signaling of bread wheat</title>
+      <link>/publication/conference-paper/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper:Varying Architecture of Heat Shock Elements Contributes to Distinct Magnitudes of Target</title>
+      <link>/publication/paper2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/paper2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
