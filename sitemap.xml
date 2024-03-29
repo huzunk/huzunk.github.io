@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite-url/tags/index.html</loc>
+    
+    <lastmod>2024-03-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/categories/index.html</loc>
+    
+    <lastmod>2024-03-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/404.html</loc>
+    
+    <lastmod>2024-03-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/cn/%E5%8D%95%E7%BB%86%E8%83%9E%E6%B5%8B%E5%BA%8F%E4%B8%93%E9%A2%981-%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F/</loc>
+    
+    <lastmod>2024-03-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/cn/%E5%8D%95%E7%BB%86%E8%83%9E%E6%B5%8B%E5%BA%8F%E4%B8%93%E9%A2%982-seurat%E5%9F%BA%E6%9C%AC%E5%88%86%E6%9E%90/</loc>
+    
+    <lastmod>2024-03-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/archive/index.html</loc>
+    
+    <lastmod>2017-03-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/about/index.html</loc>
+    
+    <lastmod>2016-04-20</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>http://yoursite-url/</loc>
+    <lastmod>2024-03-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://yoursite-url/tags/Single-cell-RNA-seq/</loc>
+    <lastmod>2024-03-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>http://yoursite-url/categories/Single-cell-RNA-seq/</loc>
+    <lastmod>2024-03-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
